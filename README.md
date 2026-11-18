@@ -6,7 +6,7 @@ Repositório com os notebooks que escrevo durante meus estudos de **Machine Lear
 
 ## Sobre o projeto
 
-Sou Engenheiro de Dados e estou aprofundando meus estudos em ML e IA como parte do meu plano de desenvolvimento. Cada notebook segue o mesmo princípio: explicar o conceito, mostrar o código funcionando e interpretar o resultado.
+Como Engenheiro de Dados/ML e Professor, estou aprofundando meus estudos em ML e IA como parte do meu plano de desenvolvimento. Cada notebook segue o mesmo princípio: explicar o conceito, mostrar o código funcionando e interpretar o resultado.
 
 ## Estrutura do repositório
 
@@ -89,7 +89,7 @@ A numeração dos arquivos já segue essa ordem.
 ## Observações
 
 - Os notebooks são material de estudo e podem conter simplificações. Sugestões e correções são bem-vindas.
-- O conteúdo acompanha cursos e livros que estou estudando; os créditos de cada material serão listados aqui conforme os estudos avançarem.
+- O conteúdo acompanha cursos e livros que estou estudando atualmente;
 
 ## Contribuindo
 
