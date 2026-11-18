@@ -65,7 +65,7 @@ Os notebooks foram escritos no Google Colab e podem ser abertos de duas formas:
 ```bash
 git clone https://github.com/wuldson-franco/Estudos-Machine-Learning-Inteligencia-Artificial.git
 cd Estudos-Machine-Learning-Inteligencia-Artificial
-pip install jupyter pandas numpy scikit-learn statsmodels matplotlib tensorflow
+pip install jupyter pandas numpy scikit-learn statsmodels matplotlib tensorflow # Cuidado com o tensorflow, pode pesar sua máquina.
 jupyter notebook
 ```
 
