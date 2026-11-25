@@ -83,8 +83,8 @@ A numeração dos arquivos já segue essa ordem.
 
 - [x] NLP (processamento de linguagem natural)
 - [x] LLMs e IA Generativa
-- [ ] RAG com LangChain e LangGraph
-- [ ] Agentes de IA e MCP
+- [x] RAG com LangChain e LangGraph
+- [x] Agentes de IA e MCP
 
 ## Observações
 
